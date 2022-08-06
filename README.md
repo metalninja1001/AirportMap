@@ -4,5 +4,5 @@ This is a python program that can be run in a jupyter interactive lab and can al
 # Below is an example of what this looks like:
 
 ![image](https://user-images.githubusercontent.com/101802030/183243938-94419018-2a29-4a82-a8b1-b7fd0b0dc269.png)
-![image](https://user-images.githubusercontent.com/101802030/183252253-fa6c3da6-20ec-44bf-ad17-dbb637b36f0d.png)
+![image](https://user-images.githubusercontent.com/101802030/183252293-65eb58e7-ffad-4283-b88e-ed42e9c6c3ab.png)
 
