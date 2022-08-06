@@ -14,7 +14,7 @@ This is a python program that can be run in a jupyter interactive lab and can al
 
 - import pandas as pd
 - import folium
-- from FlightRadar24.api iport FlightRadar24API
+- from FlightRadar24.api import FlightRadar24API
 
 - fr_api = FlightRadar24API()
 - airports = fr_api.get_airports()
