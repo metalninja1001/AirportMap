@@ -22,7 +22,7 @@ This is a python program that can be run in a jupyter interactive lab and can al
 - print(df)
 
 - df = df[["lat", "lon", "name"]]
-- map = folium.Map(location=[df.lat.mean(), df.lon.mean()], zoom_start=14, control_scale=True)
+- map = folium.Map(location=[df.lat.mean(), df.lon.mean()], zoom_start=14, control_scale=True) # The zoom-level may be adjusted to your specification.
 - map
 
 # Please note : The Jupyter lab interactive environment can be found here - https://www.anaconda.com/products/distribution.
