@@ -1,6 +1,6 @@
 #Prior to performing the below steps, a few packages are to be installed. See below :
 - pip install FlightRadarAPI
-- pip install pandas as pd
+- pip install pandas
 - pip install folium
 
 - import pandas as pd
