@@ -27,3 +27,7 @@ This is a python program illustrating all the airports across the planet. It can
 
 # Please note : The Jupyter lab interactive environment can be found here - https://www.anaconda.com/products/distribution.
 # Please feel free to set it up in your environment. It is compatible with most web browsers.
+
+# A view of what the new layout looks like :
+![image](https://user-images.githubusercontent.com/101802030/183876214-e738577c-8668-462b-aac0-41386fde4761.png)
+
